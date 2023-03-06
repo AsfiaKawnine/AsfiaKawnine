@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asfia Kawnine
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning different machine learning algorithms
-- 💞️ I’m looking to collaborate on image processing
+- 👀 I worked as a ML engineer and Data Scientist for almost 3 years
+- 🌱 Currently I am a graduate research assistant at University of New Brunswick, Canada
+- 💞️ I’m looking to collaborate on image processing, NLP, machine learning algorithms, embedded learning, etc.
 - 📫 Reach me at asfi.kawnine@gmail.com
 
 <!---
